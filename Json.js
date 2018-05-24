@@ -28,9 +28,9 @@ $(document).ready(function() {
   
   $('#randomPage').click(function() {
     
-  }); // randomPage
+  }); /
   
-/*  $('#randomSearch').click(function() {
+ $('#randomSearch').click(function() {
     $("#display-result").empty(); // clear prior search results 
     $("input").val("");
     $.getJSON(apiURL, {
@@ -55,7 +55,6 @@ $(document).ready(function() {
     });
 */
   
-  // trigger submit on use of enter key
   $("#input").keyup(function(event) {
     if (event.keyCode == 13) {
       $("#searchSubmit").click();
@@ -63,8 +62,7 @@ $(document).ready(function() {
   });
 });
 
-/*
-// display results
+
 function processResult(apiResult) {
   console.log(apiResult);
   for (var i = 0; i < apiResult.query.search.length; i++) {
@@ -74,4 +72,4 @@ function processResult(apiResult) {
 );
   }
 };
-*/
+
