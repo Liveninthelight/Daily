@@ -15,6 +15,7 @@ function switchOfStuff(val) {
       answer = "stuff";
       break;
   }
+  
       
   
   
@@ -24,3 +25,5 @@ function switchOfStuff(val) {
 
 // Change this value to test
 switchOfStuff(1);
+
+// Change 
