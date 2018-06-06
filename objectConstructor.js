@@ -9,3 +9,5 @@ var Car = function() {
 var myCar = new Car();
 
 myCar.nickname = "Keenan";
+
+var hello = "wassup";
