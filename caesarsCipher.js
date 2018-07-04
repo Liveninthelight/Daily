@@ -24,4 +24,4 @@ function rot13(str) { // LBH QVQ VG!
 rot13("SERR PBQR PNZC");
 /////////////////// yeeaa again daily 
 
-Gotta keep drinding away 
+Gotta keep Grinding away 
