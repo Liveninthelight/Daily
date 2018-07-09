@@ -40,3 +40,5 @@ Work is becoming stressful
 very stressed 
 so much to do so little time to do it 
 need to focus 
+
+just have to stay focused 
