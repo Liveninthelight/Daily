@@ -42,3 +42,5 @@ so much to do so little time to do it
 need to focus 
 
 just have to stay focused 
+
+It may take longer for me to achieve the same goals but giving up will never be an option. i will succseed nmw
