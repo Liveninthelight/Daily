@@ -46,3 +46,6 @@ just have to stay focused
 It may take longer for me to achieve the same goals but giving up will never be an option. i will succseed nmw
 
 i will never give up no matter how hard it gets 
+
+
+Never give up, Just make the next day better 
