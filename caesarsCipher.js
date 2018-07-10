@@ -49,3 +49,6 @@ i will never give up no matter how hard it gets
 
 
 Never give up, Just make the next day better 
+
+Everyday is another chane to improve the daily process, 
+
