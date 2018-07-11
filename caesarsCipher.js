@@ -55,3 +55,5 @@ Everyday is another chane to improve the daily process,
 
 I am a success because of how i think, because of how i never give up .I am a success because pressure cannot brake me. i am a success because i have gotten out of the mold
 i have made my own mold, i broke free from the broad and wide path. i am a success beause i never stop. i am not a follower i am a leader. this is why i succeed. Never give up
+
+Time management is key. most important aspect of progress efficiency 
