@@ -71,5 +71,6 @@ yes
 nothing is more fun then development 
 new day starts now
 yes
+amen again
 amen
 repent and never look back
