@@ -69,6 +69,7 @@ win""
 win
 yes 
 nothing is more fun then development 
+just learn and never stop
 new day starts now
 yes
 amen again
